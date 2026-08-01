@@ -1,8 +1,6 @@
 # EXAMEN_FINAL_MANEJO_PREPARACION_DATOS_EDUARDO_VILLALOBOS
 Examen Final — Base de Datos Universidad
 
-Script de SQL Server para el examen final del curso de Bases de Datos (8am), que modela un sistema de gestión universitaria: carreras, estudiantes, profesores, departamentos, cursos, matrículas y pagos.
-
 Estructura de la base de datos
 Tabla	Descripción
 carrera	Carreras universitarias y su facultad
