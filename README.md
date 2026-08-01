@@ -1,16 +1,6 @@
 # EXAMEN_FINAL_MANEJO_PREPARACION_DATOS_EDUARDO_VILLALOBOS
 Examen Final — Base de Datos Universidad
 
-Estructura de la base de datos
-Tabla	Descripción
-carrera	Carreras universitarias y su facultad
-estudiante	Datos personales y de contacto de los estudiantes
-profesor	Datos de los profesores y su departamento
-departamento	Departamentos y el edificio donde se ubican
-curso	Cursos, créditos, costo y cupo
-matricula	Matrículas de estudiantes en cursos, por semestre
-pago	Pagos asociados a cada matrícula
-
 Relaciones principales: estudiante → carrera, profesor → departamento, matricula → estudiante y matricula → curso, pago → matricula.
 
 Consultas incluidas
